@@ -10,7 +10,7 @@ To run this app, clone the repository and install dependencies:
 
 ```bash
 $ git clone https://github.com/passport/todos-express-auth0.git
-$ cd todos-express-auth0
+l $ cd todos-express-auth0
 $ npm install
 ```
 
